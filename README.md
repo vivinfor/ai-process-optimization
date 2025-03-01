@@ -33,7 +33,7 @@ Este projeto demonstra **como Inteligência Artificial pode otimizar processos e
 ### 📌 Configuração do Ambiente
 1. **Clone o repositório:**
 ```sh
- git clone https://github.com/seuusuario/ai-process-optimization.git
+ git clone https://github.com/vivinfor/ai-process-optimization.git
  cd ai-process-optimization
 ```
 2. **Crie um ambiente virtual e instale as dependências:**
