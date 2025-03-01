@@ -63,5 +63,5 @@ Este projeto demonstra **como Inteligência Artificial pode otimizar processos e
 - Comparar diferentes algoritmos de Machine Learning.
 - Criar um **front-end simples para consumir a API.**
 
-🚀 **Desenvolvido por [Seu Nome] - Demonstrando expertise em IA aplicada a processos!**
+🚀 **Desenvolvido por [Viviana]**
 
